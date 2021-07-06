@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#header-nav {
+    background-color: crimson;
+    border-radius: 0;
+    border: 0;
+    padding-bottom: 20px;
+}
+
+p {
+    text-align: left;
+    color: white;
+}
+
+.end {
+    background-color: black;
+    padding-bottom: 10px;
+}
+
+.visible-ls {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#nav-list a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+    color: black;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: white;
+    background-color: maroon;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 1px;
+}
+
+ol {
+    color: black;
+    font-style: normal;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.info {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: dodgerblue;
+    font-style: italic;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 1px;
+}
+
+.container {
+    margin: 0px;
+    width: 100%;
+}
+
+footer {
+    background-color: black;
+}
+
+footer {
+    padding: 10px 0px 0px 15px;
+}
+
+footer {
+    color: white;
+}
+
+footer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+    text-align: right
+}
